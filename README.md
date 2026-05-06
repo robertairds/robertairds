@@ -2,7 +2,7 @@
 
 I am a professional transitioning from **Human Resources** to **Technology**. 
 With a background in HR Generalist roles and international experience in **Ireland and Spain**, 
-I bring strong communication, adaptability, and problem-solving skills to software development.
+I bring communication, adaptability, and problem-solving skills to software development.
 
 ### 🛠️ Skills & Tools
 - **Backend:** Java, Spring Framework, SQL.
