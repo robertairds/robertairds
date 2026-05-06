@@ -1,16 +1,18 @@
-# Hi, I'm Roberta Rodrigues 👋
+# Hi, I'm Roberta 👋
 
- I believe in constant learning and enjoy solving new challenges every day.
+I believe in constant learning and enjoy solving new challenges every day.
 
-### 🛠️ Skills & Tools
-- **Backend:** Java, Spring Framework, SQL.
-- **Frontend:** HTML, CSS, JavaScript.
-- **Others:** Git, Scrum, Logic & OOP.
+### 📚 Education & Current Learning
+* **Currently Studying:** Systems Analysis and Development at **Senac**.
+* **Active Learning:** Full Stack Java Bootcamp at **Generation Brasil**.
 
-### 🎓 Education
-- **Analysis and Systems Development** - Senac (Expected 2028).
-- **Full Stack Java Bootcamp** - Generation Brasil (Expected 2026).
+### ⚙️ Current Tech Stack
+* **Languages & Logic:** Java, SQL, and Logic Programming.
+* **Tools:** Git, GitHub.
 
 ### 🌍 Languages
-- **English:** Advanced (C1) - Exchange program in Ireland.
-- **Spanish:** Intermediate (B2) - Exchange program in Spain.
+* **English:** Advanced (C1)
+* **Spanish:** Upper-Intermediate (B2)
+
+---
+*“Step by step, one commit at a time.”*
