@@ -1,8 +1,6 @@
 # Hi, I'm Roberta Rodrigues 👋
 
-I am a professional transitioning from **Human Resources** to **Technology**. 
-With a background in HR Generalist roles and international experience in **Ireland and Spain**, 
-I bring communication, adaptability, and problem-solving skills to software development.
+ I believe in constant learning and enjoy solving new challenges every day.
 
 ### 🛠️ Skills & Tools
 - **Backend:** Java, Spring Framework, SQL.
