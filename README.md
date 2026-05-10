@@ -10,7 +10,7 @@ I believe in constant learning and enjoy solving new challenges every day.
 * **English:** Advanced (C1)
 * **Spanish:** Upper-Intermediate (B2)
 
-## 🤖 Linguagens e Tecnologias
+## 🤖 Technologies
 
 <br>
 <br>
@@ -27,10 +27,6 @@ I believe in constant learning and enjoy solving new challenges every day.
 
 <br/>
 <br/>
-
-<div align="center"> 
-  <a href="https:https://www.linkedin.com/in/roberta-rodrigues-315953234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
 
 ---
 *“Step by step, one commit at a time.”*
